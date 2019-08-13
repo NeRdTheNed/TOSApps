@@ -1,0 +1,44 @@
+[submodule "cherub"]
+	path = cherub
+	url = https://github.com/adolfoeliazat/cherub.git
+	branch = master
+[submodule "Lsh"]
+	path = Lsh
+	url = https://github.com/minexew/Lsh.git
+	branch = master
+[submodule "hgbd"]
+	path = hgbd
+	url = https://github.com/obecebo/hgbd.git
+	branch = master
+[submodule "GKey"]
+	path = GKey
+	url = https://github.com/Rion96/GKey.git
+	branch = master
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/Rion96/Minesweeper.git
+	branch = master
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://github.com/Rion96/TicTacToe.git
+	branch = master
+[submodule "SimpleCalc"]
+	path = SimpleCalc
+	url = https://github.com/shawnanastasio/SimpleCalc.git
+	branch = master
+[submodule "TempleShell"]
+	path = TempleShell
+	url = https://github.com/shawnanastasio/TempleShell.git
+	branch = master
+[submodule "crocodile"]
+	path = crocodile
+	url = https://github.com/tbodt/crocodile.git
+	branch = master
+[submodule "templenes"]
+	path = templenes
+	url = https://github.com/trapexit/templenes.git
+	branch = master
+[submodule "frotz"]
+	path = frotz
+	url = https://github.com/jwhitham/frotz.git
+	branch = master
