@@ -42,3 +42,7 @@
 	path = frotz
 	url = https://github.com/jwhitham/frotz.git
 	branch = master
+[submodule "Sine"]
+	path = Sine
+	url = https://github.com/slx7R4GDZM/Sine.git
+	branch = HolyC
